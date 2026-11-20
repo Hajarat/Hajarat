@@ -2,7 +2,7 @@
 
 Backend Lead at **[TrackHawk GPS](https://www.linkedin.com/company/trackhawk-gps/)** (real-time IoT fleet platform) · CTO at **[Mektona](https://www.linkedin.com/company/mektona/)** (AI for architecture & construction) · founded **Ba9i** (school-bus tracking, 2021–2024).
 
-I write the spec, make the architecture calls, and direct a fleet of AI agents that build, test and QA in parallel. Next up: running those models locally.
+I write the spec, make the architecture calls, and direct a fleet of AI agents that build, test and QA in parallel.
 
 | 2026 | |
 |---|---|
