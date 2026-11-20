@@ -6,11 +6,11 @@ I write the spec, make the architecture calls, and direct a fleet of AI agents t
 
 | 2026 | |
 |---|---|
-| **7,382** | commits across 16 repos |
-| **1,338** | commits in 90 days on a new AI product |
-| **84%** | of TrackHawk's backend history |
+| **4,468** | commits across 16 repos |
+| **1,167** | commits in three months on a new AI product |
+| **76%** | of TrackHawk's backend history |
 
-Most of my work lives in private repos, so this graph shows only part of it.
+My TrackHawk work lives on Bitbucket; its commit activity is mirrored into this graph (dates only, each change counted once).
 
 **Stack I reach for:** TypeScript · Node.js · Kafka · MQTT · Next.js · AWS · Claude Code
 
