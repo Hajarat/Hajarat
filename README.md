@@ -1,4 +1,4 @@
-### From the tracker on the truck to the model on the GPU.
+### Backend lead and CTO. Five years in real-time IoT; the last year building with AI agents at the centre of how I work.
 
 Backend Lead at **[TrackHawk GPS](https://www.linkedin.com/company/trackhawk-gps/)** (real-time IoT fleet platform) · CTO at **[Mektona](https://www.linkedin.com/company/mektona/)** (AI for architecture & construction) · founded **Ba9i** (school-bus tracking, 2021–2024).
 
