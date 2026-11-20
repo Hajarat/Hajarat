@@ -8,7 +8,6 @@ I write the spec, make the architecture calls, and direct a fleet of AI agents t
 |---|---|
 | **4,468** | commits across 16 repos |
 | **1,167** | commits in three months on a new AI product |
-| **76%** | of TrackHawk's backend history |
 
 My TrackHawk work lives on Bitbucket; its commit activity is mirrored into this graph (dates only, each change counted once).
 
